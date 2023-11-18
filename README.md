@@ -53,6 +53,22 @@ system(deprecated) same sa provided
 import
 
 
+The three build lifecycles are −
+
+Clean: Cleans up artifacts created in previous builds.
+ 
+Default: Used to create the application.
+ 
+Site: Create a site document for your project.
+
+
+There are three types of repositories:
+
+Local repository
+Remote repository
+Central repository
+
+
 
 
 ```
